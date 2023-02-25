@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "WnhSCJtP7xV9nyMGkcwqZmHU+obUQf3z20TPStOffMrYDGbDe0Xekji3QLdYAo4Vinx0S0K9wm6v8t3BkMc4Dg==",
+  "dgSpecHash": "dI9ZTYA1tFZ7SmaIrg8AFEP9L/mjUZdQNztInUOKSfolotseBDEdah+2uH5nmE5CWEMe7zRz8bhsdj3QG3TU3Q==",
   "success": true,
   "projectFilePath": "/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Tests/Todo.Domain.Tests.csproj",
   "expectedPackageFiles": [
     "/Users/lucasrodrigues/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/lucasrodrigues/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.codecoverage/17.3.2/microsoft.codecoverage.17.3.2.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.csharp/4.3.0/microsoft.csharp.4.3.0.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.net.test.sdk/17.3.2/microsoft.net.test.sdk.17.3.2.nupkg.sha512",

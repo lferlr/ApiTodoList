@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "NouoDE4yu5bBvLQC/Fy7qATnMS7/qD1G4IGoylNJX8pu6NsFg6QdXeSAgxrai3nv27kT9MuB/JA5543q3Oxssw==",
+  "dgSpecHash": "HHXnKFfwHVXHLgL/FMCMsmSd9O+MT7DCFbOinrZtWnSXZhKiWXyowviEKt2bAaQxgfWOmpO4bx2ZQZ5Fp5en1w==",
   "success": true,
   "projectFilePath": "/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/Todo.Domain.Infra.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/lucasrodrigues/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512"
+  ],
   "logs": []
 }

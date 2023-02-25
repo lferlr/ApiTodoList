@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "mY4sz84hS0J/kHqy54E0WoZ0Gd5GRqUi4KAi6mTpLZ21upMeK1/EXzPfVNmZ25z8SvqPX0Kh6bfsMKd8tRhTXQ==",
+  "dgSpecHash": "2H5NjcX7p3v0+AHwn4glZKQW+W4uoOyzJGWh+LCYrGexZ4EmCHx34SAV5a8rPlxRHtfdPWCFQ5ZyQBIr0c62MQ==",
   "success": true,
   "projectFilePath": "/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Api/Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
+    "/Users/lucasrodrigues/.nuget/packages/flunt/1.0.5/flunt.1.0.5.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.aspnetcore.openapi/7.0.1/microsoft.aspnetcore.openapi.7.0.1.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/lucasrodrigues/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
