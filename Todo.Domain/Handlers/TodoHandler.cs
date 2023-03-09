@@ -22,7 +22,7 @@ public class TodoHandler :
     {
         // Fail Fast Validation
         command.Validate();
-        if (command.Valid)
+        if (command.Invalid)
             return new GenericCommandResult(false, "Ops, parece que sua tarefa está errada!", command.Notifications);
 
         // Gerar um item
