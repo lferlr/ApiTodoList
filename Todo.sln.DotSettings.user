@@ -1,0 +1,7 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=38ca18d0_002D7040_002D43a4_002Daaa7_002De710fcb82384/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Dado_um_comando_invalido_deve_interromper_a_execucao" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::BE35048F-C1A8-4237-A8BB-A6AA71357ACE::net7.0::Todo.Domain.Tests.HandlerTests.CreateTodoHandlerTests.Dado_um_comando_invalido_deve_interromper_a_execucao&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::BE35048F-C1A8-4237-A8BB-A6AA71357ACE::net7.0::Todo.Domain.Tests.HandlerTests.CreateTodoHandlerTests.Dado_um_comando_valido_deve_criar_a_tarefa&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
