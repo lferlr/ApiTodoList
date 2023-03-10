@@ -1,0 +1,5 @@
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.csproj.AssemblyReference.cache
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.AssemblyInfoInputs.cache
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.AssemblyInfo.cs
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.csproj.CoreCompileInputs.cache
