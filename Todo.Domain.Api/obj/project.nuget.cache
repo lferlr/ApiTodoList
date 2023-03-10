@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3lulb7OR5UaWI7mD4rUDlaw9klhQjAAtQtkIXAF86pJPZBUcCXfpwZgbfLaZl1Y2+ho0jBlRjCa7I2Yi+gdA3g==",
+  "dgSpecHash": "OAn+IMrcrhkt+ydPDMKx6PduIxe/wPKwvTPasFdpwG4lelwUaxJJOvD0IY4rsFVkPTTZ3wtPyxGB44yNOiEnqw==",
   "success": true,
   "projectFilePath": "/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Api/Todo.Domain.Api.csproj",
   "expectedPackageFiles": [
