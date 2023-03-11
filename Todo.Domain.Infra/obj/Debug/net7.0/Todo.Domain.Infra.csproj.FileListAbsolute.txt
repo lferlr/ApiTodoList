@@ -3,3 +3,15 @@
 /Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.AssemblyInfoInputs.cache
 /Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.AssemblyInfo.cs
 /Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.csproj.CoreCompileInputs.cache
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/bin/Debug/net7.0/Todo.Domain.Infra.deps.json
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/bin/Debug/net7.0/Todo.Domain.Infra.runtimeconfig.json
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/bin/Debug/net7.0/Todo.Domain.Infra.dll
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/bin/Debug/net7.0/Todo.Domain.Infra.pdb
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/bin/Debug/net7.0/Todo.Domain.dll
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/bin/Debug/net7.0/Todo.Domain.pdb
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.csproj.CopyComplete
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.dll
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/refint/Todo.Domain.Infra.dll
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.pdb
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/Todo.Domain.Infra.genruntimeconfig.cache
+/Users/lucasrodrigues/dev/Balta/Todo/Todo.Domain.Infra/obj/Debug/net7.0/ref/Todo.Domain.Infra.dll
