@@ -30,7 +30,7 @@ public class TodoRepository : ITodoRepository
     public TodoItem GetById(Guid id, string user)
     {
         return _context.Todos
-            .FirstOrDefault(x => x.Id == id && x.User == user);
+            .FirstOrDefault(x => x.Id == id && x.User == user)!;
     }
 
     public IEnumerable<TodoItem> GetAll(string user)
